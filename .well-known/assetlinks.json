@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls",
+                 "delegate_permission/common.get_login_creds"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.beepstudios.novelbridge",
+      "sha256_cert_fingerprints": [
+        "77:7E:9F:A6:35:B2:F3:FE:18:57:F0:0A:14:1E:61:68:D3:A8:D1:DF:4E:6D:03:AD:71:08:2E:83:4B:14:26:0B"
+      ]
+    }
+  }
+]
